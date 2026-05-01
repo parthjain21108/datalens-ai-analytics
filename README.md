@@ -1,5 +1,7 @@
 # DataLens — Full-Stack Data Analysis App
 
+Production deployment setup in progress.
+
 A production-grade data analysis platform built with **React + Vite**, **Node.js + Express**, and **MongoDB Atlas**, fully Dockerized and deployable to **AWS ECS Fargate**.
 
 ---
